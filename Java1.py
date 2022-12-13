@@ -1,0 +1,5 @@
+print ("Hello Javohir")
+print(7+8)
+print("Hello World")
+print(10+5*4)
+print(7*9-50)
